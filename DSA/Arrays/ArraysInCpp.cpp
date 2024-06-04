@@ -19,6 +19,7 @@ int main() {
         cout<<endl;
     }
     
+    cout<<"Demo text";
 
     return 0;
 }
